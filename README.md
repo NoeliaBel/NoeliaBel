@@ -1,3 +1,5 @@
+# Hello! I'm Noelia. It's nice to meet you!
+
 - 👋 Hi, I’m @NoeliaBel
 - 👩🏻‍💻 I’m interested in data analysis, machine learning, and discovering insights from complex datasets.
 - 🌱 I’m currently learning advanced Python techniques, data visualization, and deep learning frameworks like TensorFlow and PyTorch.
