@@ -2,7 +2,7 @@
 
 ## About Me
 - 👩🏻‍💻 I’m interested in data analysis, machine learning, and discovering insights from complex datasets.
-- 🌱 I’m currently learning advanced Python techniques, data visualization, and deep learning frameworks like TensorFlow and PyTorch.
+- 🌱 I’m currently learning advanced Python techniques, data visualization, and deep learning frameworks.
 - 💞️ Excited to collaborate on impactful data science and machine learning projects.
 - 📫 You can contact me at noelia.lbt@gmail.com
 - ⚡ Fun fact: I love turning raw data into stories that everyone can understand. Also, I solve Sudoku puzzles fast!
