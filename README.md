@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Python techniques, data visualization, and deep learning frameworks like TensorFlow and PyTorch.
 - 💞️ Excited to collaborate on impactful data science and machine learning projects.
 - 📫 You can contact me at noelia.lbt@gmail.com
-- ⚡ Fun fact: I love turning raw data into stories that everyone can understand. Also, I have a knack for solving Sudoku puzzles in record time!
+- ⚡ Fun fact: I love turning raw data into stories that everyone can understand. Also, I solve Sudoku puzzles fast!
 
 <!---
 NoeliaBel/NoeliaBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
